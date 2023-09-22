@@ -1,6 +1,7 @@
-# Suraksha: Stay one step ahead of danger
 
-![Suraksha Logo](https://github.com/vivek-344/Suraksha/blob/master/app/src/main/res/drawable/Suraksha%20Banner.png)
+*# Suraksha: Stay one step ahead of danger
+
+![Suraksha Logo](https://github.com/vivek-344/Suraksha/blob/master/app/src/main/res/drawable/suraksha_banner.png)
 
 Suraksha is an open-source personal safety app designed to ensure your safety efficiently through intuitive features. From SOS alerts to fake siren sounds, Suraksha aims to be your go-to application for personal safety.
 
@@ -9,6 +10,11 @@ Suraksha is an open-source personal safety app designed to ensure your safety ef
 - Installation and Setup
 - Usage
 - Contributing
+- ""
+- "\\
+/,.
+- 
+\\- \/"""
 - License
 - Contact
 
